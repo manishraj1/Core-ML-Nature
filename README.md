@@ -1,6 +1,6 @@
 # Core-ML-Nature
 
-The Nature app allows the user to upload an image and giving the task to the mobile application to predict that particular image which the user have uploaded its a fun time playing application but this application involes a core-ml model in it called (GoogleNetPlaces)
+The Nature app allows the user to upload an image and giving the task to the mobile application to predict that particular image which the user have uploaded its a fun playing application but this application involes a core-ml model in it called (GoogleNetPlaces)
 
 <a><img src="https://user-images.githubusercontent.com/88855727/151354778-3f774e9c-18a4-4e35-93ea-d887bdaee7e8.PNG" width="230"></a>
 <a><img src="https://user-images.githubusercontent.com/88855727/151354788-5a11fa88-720e-4bca-af8d-0a92ba5080b2.PNG" width="230"></a>
